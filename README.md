@@ -9,14 +9,15 @@ Each document explains a LeetCode problem using structured writing, with explana
 - VS Code / Obsidian (for editing)
 
 ## Topics Covered
-- Dynamic Programming
 - Tree Traversals (DFS)
-- Problem Decomposition
+- Dynamic Programming
+- String Manipulation
 
 ## Sample Docs
 
-- [2327. Number of People Aware of a Secret](./leetcode/02327-aware-of-secret.md)
-- [2363. Lowest Common Ancestor of a Binary Tree](./leetcode/02363-lowest-common-ancestor.md)
+- [236. Lowest Common Ancestor of a Binary Tree](./trees/lowest-common-ancestor.md)
+- [394. Decode String](./strings/decode-string.md)
+- [2327. Number of People Aware of a Secret](./dynamic-programming/people-aware-of-secret.md)
 
 ---
 
