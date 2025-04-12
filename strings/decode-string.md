@@ -11,6 +11,8 @@ The test cases are generated so that the length of the output will never exceed 
 
 ## Approach:  Two Stacks
 
+---
+
 We use two stacks:
 - countStack to store repeat counts (`k`).
 - resultStack to store intermediate decoded strings.
@@ -28,6 +30,8 @@ We use two stacks:
 
 ### Character Handling(`a-z`)
 - Append normal characters to `currentResult`.<br><br>
+
+---
 
 ```cpp
 class Solution {
