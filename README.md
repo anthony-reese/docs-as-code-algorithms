@@ -42,21 +42,21 @@ Each document is written in Markdown and explains a LeetCode problem with clear,
 
 | 🆔 Problem ID | 📄 Title | 📚 Category |
 |---------------|----------|---------------|
-| 167  | [Two Sum II - Input Array Is Sorted](./docs/two-pointers/two-sum-ii.md)  | Two Pointers  |
-| 151  | [Reverse Words in a String](./docs/two-pointers/reverse-words-in-string.md)  | Two Pointers  |
-| 234  | [Palindrome Linked List](./docs/two-pointers/palindrome-linked-list.md)  | Two Pointers  |
-| 143  | [Reorder List](./docs/two-pointers/reorder-list.md)  | Two Pointers  |
-| 238  | [Product of Array Except Self](./docs/sliding-window/product-of-array-except-self.md)  | Sliding Window  |
-| 438  | [Find All Anagrams in a String](./docs/sliding-window/find-all-anagrams.md)  | Sliding Window  |
-| 8  | [String to Integer (atoi)](./docs/string-manipulation/string-to-integer-atoi.md)  | String Manipulation  |
-| 232  | [Implement Queue using Stacks](./docs/stacks/implement-queue-using-stacks.md)  | Two Stacks  |
-| 394  | [Decode String](./docs/stacks/decode-string.md)  | Two Stacks  |
-| 139  | [Word Break](./docs/dynamic-programming/word-break.md)  | Dynamic Programming  |
-| 2327  | [Number of People Aware of a Secret](./docs/dynamic-programming/people-aware-of-secret.md)  | Dynamic Programming  |
-| 236  | [Lowest Common Ancestor of a Binary Tree](./docs/trees/lowest-common-ancestor.md)  | Tree DFS (Depth First Search)  |
-| 75   | [Sort Colors](./docs/sorting/sort-colors.md)  | Sorting  |
-| 347  | [Top K Frequent Elements](./docs/bucket-sort/top-k-frequent-elements.md)  | Bucket Sort  |
-| 73  | [Set Matrix Zeroes](./docs/in-place/set-matrix-zeroes.md)  | In-place  |
+| 167  | [Two Sum II - Input Array Is Sorted](https://anthony-reese.github.io/docs-as-code-algorithms/two-pointers/two-sum-ii/)  | Two Pointers  |
+| 151  | [Reverse Words in a String](https://anthony-reese.github.io/docs-as-code-algorithms/two-pointers/reverse-words-in-string/)  | Two Pointers  |
+| 234  | [Palindrome Linked List](https://anthony-reese.github.io/docs-as-code-algorithms/two-pointers/palindrome-linked-list/)  | Two Pointers  |
+| 143  | [Reorder List](https://anthony-reese.github.io/docs-as-code-algorithms/two-pointers/reorder-list/)  | Two Pointers  |
+| 238  | [Product of Array Except Self](https://anthony-reese.github.io/docs-as-code-algorithms/sliding-window/product-of-array-except-self/)  | Sliding Window  |
+| 438  | [Find All Anagrams in a String](https://anthony-reese.github.io/docs-as-code-algorithms/sliding-window/find-all-anagrams/)  | Sliding Window  |
+| 8  | [String to Integer (atoi)](https://anthony-reese.github.io/docs-as-code-algorithms/string-manipulation/string-to-integer-atoi/)  | String Manipulation  |
+| 232  | [Implement Queue using Stacks](https://anthony-reese.github.io/docs-as-code-algorithms/stacks/implement-queue-using-stacks/)  | Two Stacks  |
+| 394  | [Decode String](https://anthony-reese.github.io/docs-as-code-algorithms/stacks/decode-string/)  | Two Stacks  |
+| 139  | [Word Break](https://anthony-reese.github.io/docs-as-code-algorithms/dynamic-programming/word-break/)  | Dynamic Programming  |
+| 2327  | [Number of People Aware of a Secret](https://anthony-reese.github.io/docs-as-code-algorithms/dynamic-programming/people-aware-of-secret/)  | Dynamic Programming  |
+| 236  | [Lowest Common Ancestor of a Binary Tree](https://anthony-reese.github.io/docs-as-code-algorithms/trees/lowest-common-ancestor/)  | Tree DFS (Depth First Search)  |
+| 75   | [Sort Colors](https://anthony-reese.github.io/docs-as-code-algorithms/sorting/sort-colors/)  | Sorting  |
+| 347  | [Top K Frequent Elements](https://anthony-reese.github.io/docs-as-code-algorithms/bucket-sort/top-k-frequent-elements/)  | Bucket Sort  |
+| 73  | [Set Matrix Zeroes](https://anthony-reese.github.io/docs-as-code-algorithms/in-place/set-matrix-zeroes/)  | In-place  |
 
 ---
 
