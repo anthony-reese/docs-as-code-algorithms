@@ -1,0 +1,45 @@
+site_name: Docs-as-Code Algorithms
+theme:
+  name: material
+  icon:
+    copy: material/content-copy
+    copied: material/check
+  features:
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Two Pointers:
+      - Two Sum II: two-pointers/two-sum-ii.md
+      - Reverse Words: two-pointers/reverse-words-in-string.md
+      - Palindrome Linked List: two-pointers/palindrome-linked-list.md
+      - Reorder List: two-pointers/reorder-list.md
+  - Sliding Window:
+      - Product of Array Except Self: sliding-window/product-of-array-except-self.md
+      - Find All Anagrams: sliding-window/find-all-anagrams.md
+  - String Manipulation:
+      - String to Integer (atoi): string-manipulation/string-to-integer-atoi.md
+  - Stacks:
+      - Implement Queue: stacks/implement-queue-using-stacks.md
+      - Decode String: stacks/decode-string.md
+  - Dynamic Programming:
+      - Word Break: dynamic-programming/word-break.md
+      - Number of People Aware: dynamic-programming/people-aware-of-secret.md
+  - Trees:
+      - Lowest Common Ancestor: trees/lowest-common-ancestor.md
+      - Binary Tree Right Side View: trees/binary-tree-right-side-view.md
+  - Sorting:
+      - Sort Colors: sorting/sort-colors.md
+  - Bucket Sort:
+      - Top K Frequent Elements: bucket-sort/top-k-frequent-elements.md
+  - In-place:
+      - Set Matrix Zeroes: in-place/set-matrix-zeroes.md

@@ -29,7 +29,7 @@ Each document is written in Markdown and explains a LeetCode problem with clear,
 - 🟦 Two Pointers  
 - 🟨 Sliding Window  
 - 🧵 String Manipulation  
-- 🗂 Stacks  
+- 🗂  Stacks  
 - 🔢 Dynamic Programming  
 - 🌳 Trees  
 - 📊 Sorting  
@@ -57,6 +57,7 @@ Each document is written in Markdown and explains a LeetCode problem with clear,
 | 75   | [Sort Colors](https://anthony-reese.github.io/docs-as-code-algorithms/sorting/sort-colors/)  | Sorting  |
 | 347  | [Top K Frequent Elements](https://anthony-reese.github.io/docs-as-code-algorithms/bucket-sort/top-k-frequent-elements/)  | Bucket Sort  |
 | 73  | [Set Matrix Zeroes](https://anthony-reese.github.io/docs-as-code-algorithms/in-place/set-matrix-zeroes/)  | In-place  |
+| 199  | [Binary Tree Right Side View](https://anthony-reese.github.io/docs-as-code-algorithms/trees/binary-tree-right-side-view.md)  | BFS (Breadth First Search)  |
 
 ---
 
