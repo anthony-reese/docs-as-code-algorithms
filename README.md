@@ -58,6 +58,8 @@ Each document is written in Markdown and explains a LeetCode problem with clear,
 | 347  | [Top K Frequent Elements](https://anthony-reese.github.io/docs-as-code-algorithms/bucket-sort/top-k-frequent-elements/)  | Bucket Sort  |
 | 73  | [Set Matrix Zeroes](https://anthony-reese.github.io/docs-as-code-algorithms/in-place/set-matrix-zeroes/)  | In-place  |
 | 199  | [Binary Tree Right Side View](https://anthony-reese.github.io/docs-as-code-algorithms/trees/binary-tree-right-side-view.md)  | BFS (Breadth First Search)  |
+| 994  | [Rotting Oranges](https://anthony-reese.github.io/docs-as-code-algorithms/trees/rotting-oranges.md)  | BFS (Breadth First Search)  |
+| 210  | [Course Schedule II](https://anthony-reese.github.io/docs-as-code-algorithms/trees/course-schedule-ii.md)  | BFS (Breadth First Search)  |
 
 ---
 
