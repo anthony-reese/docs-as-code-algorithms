@@ -37,6 +37,8 @@ nav:
   - Trees:
       - Lowest Common Ancestor: trees/lowest-common-ancestor.md
       - Binary Tree Right Side View: trees/binary-tree-right-side-view.md
+      - Rotting Oranges: trees/rotting-oranges.md
+      - Course Schedule II: trees/course-schedule-ii.md
   - Sorting:
       - Sort Colors: sorting/sort-colors.md
   - Bucket Sort:
